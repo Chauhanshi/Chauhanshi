@@ -10,9 +10,6 @@
 - 😄 Check out my website: www.Shivamch.me
 - ⚡ Fun fact: Cannot live without sports & coading.
 
-
-
-
 [![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=Chauhanshi&show_icons=true&theme=dark&count_private=True)](https://github.com/Chauhanshi/github-readme-stats)[![Shivam's most used tools](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanshi&theme=dark)](https://github.com/Chauhanshi/github-readme-stats)
 
 
