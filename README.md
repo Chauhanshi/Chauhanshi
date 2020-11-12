@@ -12,10 +12,16 @@ My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=Apache-spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Google_Analytics-informational?style=flat&logo=Google-Analytics&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-QGIS-informational?style=flat&logo=Qgis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Gitpod-informational?style=flat&logo=Gitpod&logoColor=white&color=2bbc8a)
+
 
 ## &#x270d; Blog & Writing
 
