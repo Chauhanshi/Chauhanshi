@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I'm a graduate student at Northeastern University majoring in Analytics and currently working as Data Science Research Assistant. You can find me on [![LinkedIn][3.2]][3].
+My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I'm a graduate student at Northeastern University majoring in Analytics and currently working as Data Science Research Assistant. You can find me on [LinkedIn][3].
 
 - 🔭 Actively looking for an full-time oppurtunity as a Data scientist, Machine Learning engineer, or Data Analyst
 - 🌱 Python, R, SQL, Tableau, Spark, AWS, GIS and Hadoop but not limited to are few of my preferred tech tools.
