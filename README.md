@@ -34,7 +34,7 @@ My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanshi&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Chauhanshi/Chauhanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chauhanshi&show_icons=true&theme=dark&count_private=True&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chauhanshi&show_icons=true&theme=dark&count_private=True\&include_all_commits=true" />
 
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
