@@ -4,7 +4,7 @@ My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I
 
 - 🔭 Actively looking for an full-time oppurtunity as a Data scientist, Machine Learning engineer, or Data Analyst
 - 🌱 Python, R, SQL, Tableau, Spark, AWS, GIS and Hadoop but not limited to are few of my preferred tech tools.
-- 📫 How to reach me: Chauhan.shi@northeastern.edu
+- 📫 How to reach me: shivam.chauhan21@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
